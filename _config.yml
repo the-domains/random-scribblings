@@ -1,8 +1,22 @@
-typography_spectrum: 0.9214723017066717
+author:
+  name: David Peterson
+  email: david@randombits.org
+title: filtered noise
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.2279239466879517
   brandStrength: 0.8918076066765934
-  lightness: 0.36284402245655656
-  saturation: 0.22792394668795168
   rhythmicContrast: 0.507030539913103
   brandColors:
     - '#1A1F2B'
@@ -10,11 +24,9 @@ color:
     - '#4A6491'
     - '#85A5CC'
     - '#D0E4F2'
-layout_spectrum: 0.6503067733719945
-author:
-  name: David Peterson
-  email: david@randombits.org
-name: Random I/O
-title: filtered noise
+  lightness: 0.3628440224565566
+typography_spectrum: 0.5319149
 description: |+
 
+layout_spectrum: 0.2212766
+name: Random I/O
