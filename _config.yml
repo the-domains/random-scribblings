@@ -11,8 +11,11 @@ color:
     - '#FBB9BF'
     - '#E376B7'
 layout_spectrum: 0.8516785716637969
-name: Random Scribblings
-title: I/O
+author:
+  name: David Peterson
+  email: david@randombits.org
+name: Random I/O
+title: filtered noise
 description: |
   things encountered in the 
   voi
